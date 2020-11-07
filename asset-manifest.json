@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/git-hubPage-FirstFullStack/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/git-hubPage-FirstFullStack/static/js/main.844a8fdb.chunk.js",
+    "main.js.map": "/git-hubPage-FirstFullStack/static/js/main.844a8fdb.chunk.js.map",
+    "runtime-main.js": "/git-hubPage-FirstFullStack/static/js/runtime-main.9ec89189.js",
+    "runtime-main.js.map": "/git-hubPage-FirstFullStack/static/js/runtime-main.9ec89189.js.map",
+    "static/css/2.267ffeee.chunk.css": "/git-hubPage-FirstFullStack/static/css/2.267ffeee.chunk.css",
+    "static/js/2.da5b4773.chunk.js": "/git-hubPage-FirstFullStack/static/js/2.da5b4773.chunk.js",
+    "static/js/2.da5b4773.chunk.js.map": "/git-hubPage-FirstFullStack/static/js/2.da5b4773.chunk.js.map",
+    "static/js/3.bf02d2e5.chunk.js": "/git-hubPage-FirstFullStack/static/js/3.bf02d2e5.chunk.js",
+    "static/js/3.bf02d2e5.chunk.js.map": "/git-hubPage-FirstFullStack/static/js/3.bf02d2e5.chunk.js.map",
+    "index.html": "/git-hubPage-FirstFullStack/index.html",
+    "static/css/2.267ffeee.chunk.css.map": "/git-hubPage-FirstFullStack/static/css/2.267ffeee.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/git-hubPage-FirstFullStack/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.da5b4773.chunk.js.LICENSE.txt": "/git-hubPage-FirstFullStack/static/js/2.da5b4773.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ec89189.js",
+    "static/css/2.267ffeee.chunk.css",
+    "static/js/2.da5b4773.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.844a8fdb.chunk.js"
+  ]
+}
